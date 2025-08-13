@@ -16,6 +16,10 @@ Key features:
 - Output: Binary classification — Up or Down in the next 20 trading days
 - Includes portfolio backtesting and Grad-CAM visualizations
 
+## Project Structure
+
+## Usage
+
 ## Citation 
 If you find this work useful for your research, please cite:
 
