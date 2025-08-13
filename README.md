@@ -1,6 +1,8 @@
 # Learning Stock Price Signals from Candlestick Chart Via Vision Transformer
 
-<img src="images/ViT_architecture.png" alt="ViT Architecture" width="600">
+<p align="center">
+  <img src="images/ViT_architecture.png" alt="ViT Architecture" width="600">
+</p>
 
 ## Overview
 
